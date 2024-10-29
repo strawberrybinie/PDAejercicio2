@@ -1,3 +1,9 @@
+/*
+Alumno: Ocampo Canales Kaory Marlene
+Fecha de entrega: 29 de octubre
+Fecha de actualización: 28 de octubre, 23:20 hrs
+Nombre del archivo: PDAejercicio2
+*/
 
 //Biblioteca que define parametros para la pila
 

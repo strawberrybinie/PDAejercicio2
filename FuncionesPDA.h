@@ -1,13 +1,30 @@
+/*
+Alumno: Ocampo Canales Kaory Marlene
+Fecha de entrega: 29 de octubre
+Fecha de actualización: 28 de octubre, 23:28 hrs
+Nombre del archivo: PDAejercicio2
+*/
+
+//Biblioteca de funciones del PDA
+
 #include <stdio.h>
 #include "parametrosPila.h"
 
-//Funciones del PDA:
 
 //recorrido
+void push (Pila *s, char simbolo){
+    /*
+    Si nuestro tope es menor (??) al tamaño de la pila entonces,
+    movemos nuestra pila... Esta logica aún me confunde..
+    y así como movemos la... NO, agregamos al indice que nos coloca
+    en el nuevo(? tope, si? por ahí va, mañana me rompo la cabeza, buenas noches TT
+    */
+}
 /*una función que haga el recorrido, en base al indice, 
 de nuestra cadena ingresada, o sea, ir sumando al indice
 de la misma forma que vamos agregando al tope de la pila
 */
+
 
 //desapilar
 /*
